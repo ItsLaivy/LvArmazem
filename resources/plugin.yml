@@ -1,0 +1,18 @@
+name: LvArmazem
+version: 1.0
+main: codes.laivy.lvarmazem.LvArmazem
+author: DanielZinh#7616
+description: "Sistema de armazenamento de itens de farms"
+api-version: 1.16
+
+softdepend:
+  - PlotSquared
+  - Vault
+
+commands:
+  armazem:
+    description: "Comando principal de armazém"
+
+permissions:
+  lvarmazem.sell.all:
+    default: op

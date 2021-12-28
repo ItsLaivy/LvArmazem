@@ -1,0 +1,19 @@
+# --------------- LvArmazém --------------- #
+# Created By: Daniel Richard
+# - Discord: DanielZinh#7616
+# - Mail: dnlfg.contato@gmail.com
+# --------------- LvArmazém --------------- #
+
+# NEEDS VAULT
+cactus price per unity: 5.0
+wheat seed price per unity: 0.1
+wheat price per unity: 1.0
+sugar cane price per unity: 10.0
+melon price per unity: 1.0
+pumpkin price per unity: 20.0
+nether wart price per unity: 4.0
+carrot price per unity: 1.0
+potato price per unity: 1.0
+
+# NO PERMISSION MESSAGES
+cant sell all: "&cSomente VIPs podem vender todos os itens do armazém de uma vez."
